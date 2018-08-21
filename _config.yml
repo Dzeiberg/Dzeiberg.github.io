@@ -10,11 +10,11 @@ locale                   : "en-US"
 title                    : "Daniel Zeiberg / Personal Page"
 title_separator          : "-"
 name                     : &name "Daniel Zeiberg"
-description              : &description "personal page"
-url                      : https://Dzeiberg.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "PhD student at Northeastern University"
+url                      : https://dzeiberg.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Dzeiberg/Dzeiberg.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : "dzeiberg/dzeiberg.github.io"
+teaser                   :  "" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -80,8 +80,8 @@ analytics:
 # Site Author
 author:
   name             : "Daniel Zeiberg"
-  avatar           : "profile.png"
-  bio              : "PhD student at Northeastern University"
+  avatar           : "bio-photo-2.jpg"
+  bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -254,7 +254,7 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
