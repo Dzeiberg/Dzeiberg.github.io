@@ -17,6 +17,12 @@ Education
 
 Work experience
 ======
+* September 2018 - December 2018: Graduate Research Assistant
+  * Northeastern University
+  * Developed a deep sequence-to-sequence model using GRUs that forecasts spatiotemporal data
+  * Achieved prediction accuracy on-par with published methods for next hour traffic speed forecasting in the METR-LA dataset
+  * Trained model to forecast realistic sequences of human poses using the Human3.6M dataset
+
 * May 2017 - April 2018: Research Assistant
   * University of Michigan
   * Implemented a model that risk stratifies hospital patients for Acute Respiratory Distress Syndrome
