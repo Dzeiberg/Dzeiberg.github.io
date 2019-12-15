@@ -13,5 +13,4 @@ date: "2020-03-28"
 venue: "PLoS One"
 paperurl: "https://www.ncbi.nlm.nih.gov/pubmed/30921400"
 citation: 'Daniel Zeiberg, Tejas Prahlad, Brahmajee Nallamothu, Theodore J Iwashyna, Jenna Wiens, Michael Sjoding. (2018). &quot;Machine Learning for Patient Risk Stratification for Acute Respiratory Distress Syndrome.&quot; PloS one, 14(3), e0214465.'
-<!-- citation: 'Zeiberg, D., Prahlad, T., Nallamothu, B. K., Iwashyna, T. J., Wiens, J., & Sjoding, M. W. (2019). Machine learning for patient risk stratification for acute respiratory distress syndrome. PloS one, 14(3), e0214465. -->
 ---
