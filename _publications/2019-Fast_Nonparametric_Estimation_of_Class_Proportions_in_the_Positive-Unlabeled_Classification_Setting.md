@@ -2,8 +2,24 @@
 title: "Fast Nonparametric Estimation of Class Proportions in the Positive-Unlabeled Classification Setting"
 collection: publications
 excerpt: 'Estimating class proportions has emerged as an important direction in positive-unlabeled learning. Well estimated class priors are key to accurate approximation of posterior distributions and are necessary for the recovery of true classification performance. While significant progress has been made in the past decade, there remains a need for accurate strategies that scale to big data. Motivated by this need, we propose an intuitive and fast nonparametric algorithm to estimate class proportions. Unlike any of the previous methods, our algorithm uses a sampling strategy to repeatedly (1) draw an example from the set of positives, (2) record the minimum distance to any of the unlabeled examples, and (3) remove the nearest unlabeled example. We show that the point of sharp increase in the recorded distances corresponds to the desired proportion of positives in the unlabeled set and train a deep neural network to identify that point. Our distance-based algorithm is evaluated on forty datasets and compared to all currently available methods. We provide evidence that this new approach results in the most accurate performance and can be readily used on large datasets.'
-date: 2009-10-01
+date: 2020-03-28
 venue: 'AAAI'
 paperurl: ''
-citation: ''
+citation: 'Zeiberg, Jain, Radivojac. "Fast Nonparametric Estimation of Class Proportions in the Positive-Unlabeled Setting." (2020).'
+---
+
+---
+title: "Machine Learning for Patient Risk Stratification for Acute Respiratory Distress Syndrome"
+collection: publications
+excerpt: 'Existing prediction models for acute respiratory distress syndrome (ARDS) require manual chart abstraction and have only fair performance-limiting their suitability for driving clinical interventions. We sought to develop a machine learning approach for the prediction of ARDS that (a) leverages electronic health record (EHR) data, (b) is fully automated, and (c) can be applied at clinically relevant time points throughout a patient's stay.
+
+METHODS AND FINDINGS:
+We trained a risk stratification model for ARDS using a cohort of 1,621 patients with moderate hypoxia from a single center in 2016, of which 51 patients developed ARDS. We tested the model in a temporally distinct cohort of 1,122 patients from 2017, of which 27 patients developed ARDS. Gold standard diagnosis of ARDS was made by intensive care trained physicians during retrospective chart review. We considered both linear and non-linear approaches to learning the model. The best model used L2-logistic regression with 984 features extracted from the EHR. For patients observed in the hospital at least six hours who then developed moderate hypoxia, the model achieved an area under the receiver operating characteristics curve (AUROC) of 0.81 (95% CI: 0.73-0.88). Selecting a threshold based on the 85th percentile of risk, the model had a sensitivity of 56% (95% CI: 35%, 74%), specificity of 86% (95% CI: 85%, 87%) and positive predictive value of 9% (95% CI: 5%, 14%), identifying a population at four times higher risk for ARDS than other patients with moderate hypoxia and 17 times the risk of hospitalized adults.
+
+CONCLUSIONS:
+We developed an ARDS prediction model based on EHR data with good discriminative performance. Our results demonstrate the feasibility of a machine learning approach to risk stratifying patients for ARDS solely from data extracted automatically from the EHR.'
+date: 2009-10-01
+venue: 'Plos One'
+paperurl: 'https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0214465'
+citation: 'Daniel Zeiberg, Tejas Prahlad, Brahmajee Nallamothu, Theodore J Iwashyna, Jenna Wiens, Michael Sjoding. (2018). &quot;Machine Learning for Patient Risk Stratification for Acute Respiratory Distress Syndrome.&quot; PloS one, 14(3), e0214465.'
 ---
