@@ -17,6 +17,11 @@ Education
 
 Work experience
 ======
+* January 2019 - Present: Graduate Research Assistant
+  * Northeastern University
+  * Developed a deep learning model for class prior estimation for positive-unlabeled data using Tensorflow
+  * Researching heterogeneous graph-based models for compound protein interaction prediction using Pytorch
+
 * September 2018 - December 2018: Graduate Research Assistant
   * Northeastern University
   * Developed a deep sequence-to-sequence model using GRUs that forecasts spatiotemporal data
