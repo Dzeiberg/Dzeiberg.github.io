@@ -1,7 +1,6 @@
 ---
 title: "Machine Learning for Patient Risk Stratification for Acute Respiratory Distress Syndrome"
 collection: publications
-permalink: /publication/2018-05-25-Machine-Learning-for-Patient-Risk-Stratification-for-Acute-Respiratory-Distress-Syndrome-1
 excerpt: 'Existing prediction models for acute respiratory distress syndrome (ARDS) require manual chart abstraction and have only fair performance-limiting their suitability for driving clinical interventions. We sought to develop a machine learning approach for the prediction of ARDS that (a) leverages electronic health record (EHR) data, (b) is fully automated, and (c) can be applied at clinically relevant time points throughout a patient's stay.
 
 METHODS AND FINDINGS:
@@ -14,7 +13,4 @@ venue: 'Plos One'
 paperurl: 'https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0214465'
 citation: 'Daniel Zeiberg, Tejas Prahlad, Brahmajee Nallamothu, Theodore J Iwashyna, Jenna Wiens, Michael Sjoding. (2018). &quot;Machine Learning for Patient Risk Stratification for Acute Respiratory Distress Syndrome.&quot; PloS one, 14(3), e0214465.'
 ---
-[Download paper here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0214465)
-[Github Repo](https://gitlab.eecs.umich.edu/dzeiberg/ardspublic)
 
-Recommended citation: Zeiberg D, Prahlad T, Nallamothu BK, Iwashyna TJ, Wiens J, Sjoding MW (2019) Machine learning for patient risk stratification for acute respiratory distress syndrome. PLoS ONE 14(3): e0214465. https://doi.org/10.1371/journal.pone.0214465
