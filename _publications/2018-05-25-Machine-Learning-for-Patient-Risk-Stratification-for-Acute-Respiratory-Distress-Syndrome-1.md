@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning for Patient Risk Stratification for Acute Respiratory Distress Syndrome"
 collection: publications
-permalink: https://www.ncbi.nlm.nih.gov/pubmed/30921400
+permalink: /publication/2018-05-25-Machine-Learning-for-Patient-Risk-Stratification-for-Acute-Respiratory-Distress-Syndrome-1
 excerpt: 'Existing prediction models for acute respiratory distress syndrome (ARDS) require manual chart abstraction and have only fair performance-limiting their suitability for driving clinical interventions. We sought to develop a machine learning approach for the prediction of ARDS that (a) leverages electronic health record (EHR) data, (b) is fully automated, and (c) can be applied at clinically relevant time points throughout a patient's stay.
 
 METHODS AND FINDINGS:
@@ -9,8 +9,12 @@ We trained a risk stratification model for ARDS using a cohort of 1,621 patients
 
 CONCLUSIONS:
 We developed an ARDS prediction model based on EHR data with good discriminative performance. Our results demonstrate the feasibility of a machine learning approach to risk stratifying patients for ARDS solely from data extracted automatically from the EHR.'
-date: "2020-03-28"
-venue: "PLoS One"
-paperurl: "https://www.ncbi.nlm.nih.gov/pubmed/30921400"
+date: 2009-10-01
+venue: 'Plos One'
+paperurl: 'https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0214465'
 citation: 'Daniel Zeiberg, Tejas Prahlad, Brahmajee Nallamothu, Theodore J Iwashyna, Jenna Wiens, Michael Sjoding. (2018). &quot;Machine Learning for Patient Risk Stratification for Acute Respiratory Distress Syndrome.&quot; PloS one, 14(3), e0214465.'
 ---
+[Download paper here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0214465)
+[Github Repo](https://gitlab.eecs.umich.edu/dzeiberg/ardspublic)
+
+Recommended citation: Zeiberg D, Prahlad T, Nallamothu BK, Iwashyna TJ, Wiens J, Sjoding MW (2019) Machine learning for patient risk stratification for acute respiratory distress syndrome. PLoS ONE 14(3): e0214465. https://doi.org/10.1371/journal.pone.0214465
