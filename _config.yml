@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Daniel Zeiberg / Personal Page"
+title                    : "Daniel Zeiberg"
 title_separator          : "-"
 name                     : &name "Daniel Zeiberg"
 description              : &description "PhD student at Northeastern University"
