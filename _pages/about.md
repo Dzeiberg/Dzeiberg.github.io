@@ -15,4 +15,5 @@ My resume can be accessed [here](https://dzeiberg.github.io/files/resume.pdf)
 ### Python Tutorial
 
 [handout](https://dzeiberg.github.io/files/python_tutorial.pdf)
+
 [notebook](https://dzeiberg.github.io/files/python_tutorial.ipynb)
