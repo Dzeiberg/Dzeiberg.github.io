@@ -1,7 +1,7 @@
 ---
 title: 'Blog Post number 1'
 date: 2012-08-14
-permalink: /posts/2020/05/research-statement/
+permalink: /posts/2020/05/26/research-statement/
 tags:
 	- research statement
  ---
