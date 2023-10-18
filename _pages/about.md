@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year Ph.D. student in Computer Science at Northeastern University, working with Predrag Radivojac. I study machine learning, and am interested in developing deep learning methods with applications in healthcare and bioinformatics. I received my Bachelors degree from the University of Michigan where I studied computer science and statistics.
+I am a Ph.D. candidate studying computer science and computational biology at Northeastern University, working with Predrag Radivojac. My research focuses on learning predictive models from datasets with statistical bias and using these methods to predict the functional and phenotypic effect of rare genetic mutations. I received my Bachelors degree from the University of Michigan where I studied computer science and statistics.
 
-My resume can be accessed [here](https://dzeiberg.github.io/files/resume.pdf)
+My resume can be accessed [here](https://dzeiberg.github.io/files/Zeiberg_CV.pdf)
 
 ### Python Tutorial
 

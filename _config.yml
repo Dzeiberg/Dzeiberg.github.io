@@ -81,10 +81,10 @@ analytics:
 author:
   name             : "Daniel Zeiberg"
   avatar           : "bio-photo-2.jpg"
-  bio              : "PhD student at Northeastern University"
-  location         : "Boston, MA"
+  bio              : "PhD candidate at Northeastern University"
+  location         : "Cambridge, MA"
   employer         :
-  googlescholar    : 
+  googlescholar    : https://scholar.google.com/citations?hl=en&user=xGqhQ54AAAAJ
   email            : "zeiberg.d@northeastern.edu"
   uri              :
   bitbucket        :
