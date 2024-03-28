@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate studying computer science and computational biology at Northeastern University, working with Predrag Radivojac. My research focuses on learning predictive models from datasets with statistical bias and using these methods to predict the functional and phenotypic effect of rare genetic mutations. I received my Bachelors degree from the University of Michigan where I studied computer science and statistics.
+I am a Ph.D. candidate studying computer science and computational biology at Northeastern University. My research focuses on developing methods for learning calibrated classifiers from nonrepresentative data and using these methods to predict the functional and phenotypic effect of rare genetic variants. I received my Bachelors degree from the University of Michigan where I studied computer science and statistics.
 
 My CV can be accessed [here](https://dzeiberg.github.io/files/Zeiberg_CV.pdf)
 
